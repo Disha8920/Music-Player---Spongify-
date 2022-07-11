@@ -1,3 +1,10 @@
 # Music-Player SPONGIFY
 
-This gives you a basic appearance of Spotify App with added feature of direct links to Youtube for easy access to song videos!!
+-A front-end clone project of the Spotify web player
+-A web application that helps to play songs along with instant access to their videos
+-The app consumes data from the Spotify API and tries to mimic the UI and front-end
+-Tech Stack : HTML,CSS, JAVASCRIPT
+
+
+
+
